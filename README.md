@@ -112,7 +112,7 @@ AXCiS Project has 4 Application name based on server.
 > Right now the server will back to live service. Please test `http_request` on 80 and 9002 to confirm your configuration.
 
 ###
-
-
-
 <img src="img/asset.png"/>
+
+!(img/asset.png)
+
